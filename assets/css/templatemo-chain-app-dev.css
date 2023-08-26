@@ -244,7 +244,7 @@ body {
 .gradient-button a {
   display: inline-block !important;
   padding: 10px 20px !important;
-  color: #fff !important;
+  color: #000000 !important;
   text-transform: capitalize;
   font-size: 15px;
   background: rgb(19,175,240);
